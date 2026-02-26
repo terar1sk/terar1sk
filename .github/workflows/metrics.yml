@@ -17,5 +17,19 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: terar1sk
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity, community, repositories, metadata
+
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+
+          plugin_isocalendar: yes
+
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+
           filename: github-metrics.svg
