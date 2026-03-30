@@ -1,86 +1,56 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Dmytro+Isai;QA+Engineer+%7C+QA+Automation;Python+%7C+API+Testing+%7C+IoT+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Dmytro+Isai;Junior+QA+Engineer+%7C+Manual+%26+API+Testing;Python+%7C+API+Testing+%7C+QA+Automation" />
 </p>
 
----
 # 👋 About Me
 
-🎓 Informatics Student - **Technical University of Košice (FEI)**
-🧪 Junior / Trainee **QA Engineer**
-⚙️ Interested in **QA Automation, API Testing and IoT Systems**
+🎓 Informatics Student - **Technical University of Košice (FEI)**  
+🧪 Junior **QA Engineer (Manual + API Testing)**  
+⚙️ Interested in **QA Automation (Python), API Testing, and Software Quality**
 
-I am focused on improving software quality through structured testing, automation practices and real engineering projects combining **QA + Embedded + Databases**.
+I have also built a QA testing portfolio project ([view project](https://github.com/terar1sk/qa-ecommerce-testing-ksisters)) where I tested a real e-commerce website, created test documentation, and reported multiple bugs.
 
----
-## 🚀 Currently Working On
+I focus on testing real-world applications, identifying defects, and improving software quality through structured testing approaches.
 
-* 🧪 QA Automation (Python + Pytest)
-* 🔍 API Testing
-* 🌍 IoT Air Quality Monitoring System (Bachelor Thesis)
-* 🗄 Database Systems & SQL
-* ⚙️ Software Testing Lifecycle (SDLC / STLC)
+I have hands-on experience in:
+* Manual testing and exploratory testing
+* API testing (Postman, DevTools)
+* Bug reporting and test documentation
+* Working with real applications (e-commerce platforms)
 
----
-## 🛠 Tech Stack
+I also develop automation skills using **Python and Pytest**, and I have basic experience with **Selenium / Playwright (basic level)**.
 
-### QA & Testing
+Additionally, I work with **SQL and databases (PostgreSQL)** for data validation and analysis.
 
-- Manual Testing • Test Case Design • Regression Testing
-Exploratory Testing • API Testing • SDLC • STLC
-Agile • Scrum • Kanban
 
-### Tools
+## 💡 Core Skills
+* Manual Testing • Exploratory Testing • Functional Testing  
+* API Testing • Bug Reporting • Test Documentation • Test Scenarios 
+* Regression Testing • SDLC • STLC • Agile (Scrum)
 
-- Pytest • Postman • Jira • Selenium (basic) • Git
 
-### Programming
+## 🛠 Tools & Technologies
+* **Testing:** Postman • DevTools • Jira • Pytest • Selenium (basic)  
+* **Programming:** Python • JavaScript (basic)  
+* **Databases:** SQL • PostgreSQL  
+* **Other:** Git • Docker (basic)
 
-- Python • C • C++ • JavaScript
-
-### Databases
-
-- SQL • PostgreSQL
-InfluxDB • QuestDB (Time-Series Databases)
-
-### Web
-
-- HTML • CSS
-
----
-## 🌍 Featured Projects
-
-🔬 **IoT Air Quality Monitoring System**
-- Embedded monitoring system using **Raspberry Pi Pico 2 WH** with telemetry transmission to time-series databases.
-
-🧪 **Python QA Automation Practice**
-- API testing and automation tasks developed using Python and Pytest.
-
-🏨 **Database Systems - Hotel Booking**
-- Database design and SQL implementation project.
-
----
-<h2 align="center">📊 GitHub Activity</h2>
-
-<p align="center">
-  <img src="/github-metrics.svg" width="100%" />
-</p>
-
----
 ## 🌐 Languages
+* 🇬🇧 English - Intermediate (B1-B2)
+* 🇸🇰 Slovak - Intermediate (B1)
+* 🇺🇦 Ukrainian - Native
+* 🇷🇺 Russian - Native
 
-- 🇬🇧 English - Intermediate (B1-B2)
-- 🇸🇰 Slovak - Intermediate (B1)
-- 🇺🇦 Ukrainian - Native
-- 🇷🇺 Russian - Native
-
----
 ## 📫 Contact
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dmytro_Isai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-isai)
 
----
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmytro.isai.qa@gmail.com)
+
+[![QA Project](https://img.shields.io/badge/QA_Project-Ksisters_Testing-blue?style=for-the-badge)](https://github.com/terar1sk/qa-ecommerce-testing-ksisters)
+
+<h2 align="center">📊 GitHub Activity</h2>
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/7c/d2/fe/7cd2fed6cb802d420d200c98f2718b4c.jpg" width="600"/>
+  <img src="/github-metrics.svg" width="100%" />
 </p>
 
 <p align="center">
